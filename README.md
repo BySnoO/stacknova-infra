@@ -1,3 +1,4 @@
+```
 # StackNova Infra
 
 Projet d’automatisation d’environnement de recette avec Terraform et Ansible.
@@ -57,3 +58,5 @@ Cette option est utile en cas de problème ou de corruption d’une ressource.
 Le tag `latest` peut changer dans le temps, ce qui rend les déploiements non reproductibles.  
 Cela peut entraîner des comportements différents selon l’environnement ou le moment du déploiement.  
 Il est donc préférable d’utiliser une version précise pour garantir la stabilité.
+
+```
