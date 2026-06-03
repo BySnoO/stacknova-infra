@@ -19,7 +19,7 @@ Lancer le déploiement complet :
 
 ```bash
 bash scripts/deploy.sh
-
+```
 ## Questions théoriques
 
 ### Q1 — Quelle est la différence entre Terraform et Ansible ? En quoi sont-ils complémentaires ?
